@@ -1,0 +1,36 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "Point and Click Horror 2D Test_WwiseProject",
+   "GUID": "{0639A67F-18F3-4AEB-9926-187E60285645}",
+   "Generator": "2024.1.8.8898"
+  },
+  "CacheRoot": "../../../../Point and Click Horror 2D Test_WwiseProject/.cache",
+  "Platforms": [
+   {
+    "Name": "Mac",
+    "GUID": "{510F4B72-6376-4529-A88F-8DE23022E46D}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "../../../../Point and Click Horror 2D Test_WwiseProject/GeneratedSoundBanks/Mac"
+   },
+   {
+    "Name": "Windows",
+    "GUID": "{2F4C012D-42E2-4ECA-B100-CD4A2CA92072}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "../../../../Point and Click Horror 2D Test_WwiseProject/GeneratedSoundBanks/Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{4A57548B-DDB0-4DE8-B806-272C60A1DE9A}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{268FA4FD-8B01-7072-D4CC-3AA4A8B97BF7}"
+ }
+}
